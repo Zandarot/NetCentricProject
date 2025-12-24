@@ -6,7 +6,7 @@ go run cmd/cli/main.go register demo demo123
 go run cmd/cli/main.go login demo demo123
 
 # 2. Browse manga
-go run cmd/cli/main.go list-manga /n
+go run cmd/cli/main.go list-manga
 go run cmd/cli/main.go details m1
 
 # 3. List all manga
