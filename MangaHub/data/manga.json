@@ -1,0 +1,290 @@
+[
+  {
+    "id": "m1",
+    "title": "One Piece",
+    "author": "Oda Eiichiro",
+    "genres": "Action,Adventure",
+    "status": "Ongoing",
+    "total_chapters": 1100,
+    "description": "Pirate adventure"
+  },
+  {
+    "id": "m2",
+    "title": "Naruto",
+    "author": "Kishimoto Masashi",
+    "genres": "Action,Ninja",
+    "status": "Completed",
+    "total_chapters": 700,
+    "description": "Ninja world"
+  },
+  {
+  "id": "m3",
+  "title": "Attack on Titan",
+  "author": "Isayama Hajime",
+  "genres": "Action,Dark Fantasy",
+  "status": "Completed",
+  "total_chapters": 139,
+  "description": "Humanity vs. giant humanoids"
+},
+{
+  "id": "m4",
+  "title": "My Hero Academia",
+  "author": "Horikoshi Kohei",
+  "genres": "Action,Superhero",
+  "status": "Ongoing",
+  "total_chapters": 425,
+  "description": "Quirk-filled hero society"
+},
+{
+  "id": "m5",
+  "title": "Demon Slayer",
+  "author": "Gotouge Koyoharu",
+  "genres": "Action,Fantasy",
+  "status": "Completed",
+  "total_chapters": 205,
+  "description": "Demon hunting journey"
+},
+{
+  "id": "m6",
+  "title": "Jujutsu Kaisen",
+  "author": "Akutami Gege",
+  "genres": "Action,Supernatural",
+  "status": "Ongoing",
+  "total_chapters": 260,
+  "description": "Cursed energy battles"
+},
+{
+  "id": "m7",
+  "title": "Chainsaw Man",
+  "author": "Fujimoto Tatsuki",
+  "genres": "Action,Horror",
+  "status": "Ongoing",
+  "total_chapters": 150,
+  "description": "Devil hunter with chainsaw powers"
+},
+{
+  "id": "m8",
+  "title": "Death Note",
+  "author": "Obata Takeshi",
+  "genres": "Mystery,Psychological",
+  "status": "Completed",
+  "total_chapters": 108,
+  "description": "Supernatural notebook of death"
+},
+{
+  "id": "m9",
+  "title": "Fullmetal Alchemist",
+  "author": "Arakawa Hiromu",
+  "genres": "Adventure,Fantasy",
+  "status": "Completed",
+  "total_chapters": 108,
+  "description": "Alchemical brothers' journey"
+},
+{
+  "id": "m10",
+  "title": "Bleach",
+  "author": "Kubo Tite",
+  "genres": "Action,Supernatural",
+  "status": "Completed",
+  "total_chapters": 686,
+  "description": "Soul Reaper adventures"
+},
+{
+  "id": "m11",
+  "title": "Hunter x Hunter",
+  "author": "Togashi Yoshihiro",
+  "genres": "Adventure,Fantasy",
+  "status": "Hiatus",
+  "total_chapters": 400,
+  "description": "Hunter license pursuit"
+},
+{
+  "id": "m12",
+  "title": "Dragon Ball",
+  "author": "Toriyama Akira",
+  "genres": "Action,Adventure",
+  "status": "Completed",
+  "total_chapters": 519,
+  "description": "Martial arts and dragon balls"
+},
+{
+  "id": "m13",
+  "title": "Tokyo Ghoul",
+  "author": "Ishida Sui",
+  "genres": "Horror,Drama",
+  "status": "Completed",
+  "total_chapters": 144,
+  "description": "Ghoul-human conflict"
+},
+{
+  "id": "m14",
+  "title": "Solo Leveling",
+  "author": "Jang Sung-rak",
+  "genres": "Action,Fantasy",
+  "status": "Completed",
+  "total_chapters": 179,
+  "description": "Weak hunter becomes strongest"
+},
+{
+  "id": "m15",
+  "title": "Vinland Saga",
+  "author": "Yukimura Makoto",
+  "genres": "Historical,Action",
+  "status": "Ongoing",
+  "total_chapters": 210,
+  "description": "Viking age epic"
+},
+{
+  "id": "m16",
+  "title": "Berserk",
+  "author": "Miura Kentaro",
+  "genres": "Dark Fantasy,Horror",
+  "status": "Ongoing",
+  "total_chapters": 373,
+  "description": "Dark medieval fantasy"
+},
+{
+  "id": "m17",
+  "title": "One-Punch Man",
+  "author": "ONE",
+  "genres": "Action,Comedy",
+  "status": "Ongoing",
+  "total_chapters": 200,
+  "description": "Overpowered hero boredom"
+},
+{
+  "id": "m18",
+  "title": "Spy x Family",
+  "author": "Endo Tatsuya",
+  "genres": "Comedy,Action",
+  "status": "Ongoing",
+  "total_chapters": 100,
+  "description": "Fake family spy mission"
+},
+{
+  "id": "m19",
+  "title": "Haikyuu!!",
+  "author": "Furudate Haruichi",
+  "genres": "Sports,Comedy",
+  "status": "Completed",
+  "total_chapters": 402,
+  "description": "High school volleyball"
+},
+{
+  "id": "m20",
+  "title": "JoJo's Bizarre Adventure",
+  "author": "Araki Hirohiko",
+  "genres": "Action,Supernatural",
+  "status": "Ongoing",
+  "total_chapters": 1000,
+  "description": "Multi-generational adventure"
+},
+{
+  "id": "m21",
+  "title": "Kingdom",
+  "author": "Hara Yasuhisa",
+  "genres": "Historical,Action",
+  "status": "Ongoing",
+  "total_chapters": 800,
+  "description": "Warring States China"
+},
+{
+  "id": "m22",
+  "title": "The Promised Neverland",
+  "author": "Demizu Posuka",
+  "genres": "Mystery,Horror",
+  "status": "Completed",
+  "total_chapters": 181,
+  "description": "Orphanage escape mystery"
+},
+{
+  "id": "m23",
+  "title": "Mob Psycho 100",
+  "author": "ONE",
+  "genres": "Action,Supernatural",
+  "status": "Completed",
+  "total_chapters": 101,
+  "description": "Psychic powers and growth"
+},
+{
+  "id": "m24",
+  "title": "Black Clover",
+  "author": "Tabata Yuki",
+  "genres": "Action,Fantasy",
+  "status": "Ongoing",
+  "total_chapters": 370,
+  "description": "Magic knight with no magic"
+},
+{
+  "id": "m25",
+  "title": "Fairy Tail",
+  "author": "Mashima Hiro",
+  "genres": "Adventure,Fantasy",
+  "status": "Completed",
+  "total_chapters": 545,
+  "description": "Wizard guild adventures"
+},
+{
+  "id": "m26",
+  "title": "D.Gray-man",
+  "author": "Hoshino Katsura",
+  "genres": "Action,Supernatural",
+  "status": "Ongoing",
+  "total_chapters": 250,
+  "description": "Exorcist vs. demons"
+},
+{
+  "id": "m27",
+  "title": "Blue Lock",
+  "author": "Nomura Yusuke",
+  "genres": "Sports,Psychological",
+  "status": "Ongoing",
+  "total_chapters": 280,
+  "description": "Intense soccer training"
+},
+{
+  "id": "m28",
+  "title": "Kaguya-sama: Love is War",
+  "author": "Aka Akasaka",
+  "genres": "Romance,Comedy",
+  "status": "Completed",
+  "total_chapters": 281,
+  "description": "Romantic psychological battles"
+},
+{
+  "id": "m29",
+  "title": "Dr. Stone",
+  "author": "Inagaki Riichiro",
+  "genres": "Adventure,Sci-fi",
+  "status": "Completed",
+  "total_chapters": 232,
+  "description": "Science in stone world"
+},
+{
+  "id": "m30",
+  "title": "Kaiju No. 8",
+  "author": "Matsumoto Naoya",
+  "genres": "Action,Monster",
+  "status": "Ongoing",
+  "total_chapters": 110,
+  "description": "Monster-fighting force"
+},
+{
+  "id": "m31",
+  "title": "Sakamoto Days",
+  "author": "Suzuki Yuto",
+  "genres": "Action,Comedy",
+  "status": "Ongoing",
+  "total_chapters": 180,
+  "description": "Retired assassin comedy"
+},
+{
+  "id": "m32",
+  "title": "Dandadan",
+  "author": "Yukinobu Tatsu",
+  "genres": "Action,Supernatural",
+  "status": "Ongoing",
+  "total_chapters": 160,
+  "description": "Supernatural odd couple"
+}
+]
